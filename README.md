@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Leonora Sylejmani
 
-<!--
-**leonorasylejmani7250/leonorasylejmani7250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Data Science student at Michigan State University interested in data visualization, cloud computing, machine learning, and reproducible data workflows.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing my degree at Michigan State University and building projects that combine data analysis, visualization, SQL, cloud tools, and machine learning workflows.
+
+This semester I worked extensively with:
+
+- Python
+- SQL
+- AWS SageMaker
+- Docker
+- Git/GitHub
+- Data Visualization
+- Jupyter Notebooks
+
+You can view my full portfolio here:
+
+[Portfolio Website](file:///Users/leonorasylejmani/Desktop/CMSE492/professional_portfolio_template/docs/index.html)
+
+---
+
+## Featured Projects
+
+### AWS Cloud Computing Project
+Worked with AWS tools to analyze NYC 311 data and build cloud-based workflows.
+
+https://github.com/leonorasylejmani7250/aws-nyc311-sylejman
+
+### SQL + Docker Project
+Built reproducible SQL workflows using Docker and Adminer.
+
+https://github.com/leonorasylejmani7250/cmse492-hw02-sylejman
+
+### Data Analysis Project
+Performed data cleaning, analysis, and visualization using Python.
+
+https://github.com/leonorasylejmani7250/cmse492-hw01-leonorasylejmani7250
+
+---
+
+## Skills
+
+- Python  
+- SQL  
+- AWS  
+- Docker  
+- Git  
+- Data Visualization  
+- Machine Learning  
+
+## Connect
+
+LinkedIn: add if you have one  
+Email: add if you want
