@@ -53,5 +53,4 @@ https://github.com/leonorasylejmani7250/cmse492-hw01-leonorasylejmani7250
 
 ## Connect
 
-LinkedIn: add if you have one  
-Email: add if you want
+Email: sylejman@msu.edu
